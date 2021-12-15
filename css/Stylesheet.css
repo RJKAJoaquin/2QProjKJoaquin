@@ -45,7 +45,7 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     }
-    nav a:hover{
+a:hover{
         background-color: #354242;
         color: #C9DE55;
 }
