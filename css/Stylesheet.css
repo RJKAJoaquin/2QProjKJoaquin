@@ -158,7 +158,8 @@ height: 32px;
 }
 .hidden:hover{
     width: 80%;
-    height: 375px;
+    height: 380px;
+    overflow: auto;
 }
 .hidden div{
     padding: 20px;
